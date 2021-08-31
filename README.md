@@ -38,7 +38,5 @@
 </ul>
 
 </div>
-<pre><code>
-</code></pre>
 
 Project Source: Datacamp
